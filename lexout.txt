@@ -1,0 +1,32 @@
+    1      1 Identifier      count
+    1      7 Op_assign      
+    1      9 Integer             5
+    1     10 Semicolon      
+    2      1 Identifier      c
+    2      3 Op_assign      
+    2      5 Integer            97
+    2      8 Semicolon      
+    3      2 Keyword_while  
+    3      8 LeftParen      
+    3      9 Identifier      count
+    3     15 Op_less        
+    3     17 Integer           100
+    3     20 RightParen     
+    3     22 LeftBrace      
+    4      6 Keyword_print  
+    4     11 LeftParen      
+    4     12 String          "count is: "
+    4     24 Comma          
+    4     26 Identifier      count
+    4     31 Comma          
+    4     33 String          "\n"
+    4     37 RightParen     
+    4     38 Semicolon      
+    5      6 Identifier      count
+    5     12 Op_assign      
+    5     14 Identifier      count
+    5     20 Op_add         
+    5     22 Integer             5
+    5     23 Semicolon      
+    6      2 RightBrace     
+    7      1 End_of_input   

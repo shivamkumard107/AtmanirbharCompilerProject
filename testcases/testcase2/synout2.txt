@@ -1,0 +1,15 @@
+Sequence       
+Sequence       
+;
+Assign         
+Identifier     number
+Integer        5
+Sequence       
+Sequence       
+;
+Prti           
+Identifier     number
+;
+Prts           
+String         "\n"
+;

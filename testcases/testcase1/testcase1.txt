@@ -1,0 +1,9 @@
+count = 5;
+a = 2;
+ while (count < 100) {
+     print("count is: ", count, "\n");
+     count = count + 5;
+ }
+if(a>1){
+    print("a is", a, "\n");
+}

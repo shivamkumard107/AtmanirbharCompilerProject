@@ -1,0 +1,12 @@
+    4      1 Identifier      number
+    4      8 Op_assign      
+    4     10 Integer             5
+    4     11 Semicolon      
+    5      1 Keyword_print  
+    5      6 LeftParen      
+    5      7 Identifier      number
+    5     13 Comma          
+    5     15 String          "\n"
+    5     19 RightParen     
+    5     20 Semicolon      
+    6      1 End_of_input   
