@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/shivamkumard107/AtmanirbharCompiler/res/compiler-design.png">
+  <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/res/compiler-design.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -35,14 +35,14 @@
   <p align="center">
     A basic compiler made using C language, using Extended Backus–Naur form(EBNF) for defining the grammar of the formal language. 
     <br />
-    <a href="https://github.com/shivamkumard107/AtmanirbharCompiler/README.txt"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/README.txt"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/xXIWzTw2Sys">View Demo</a>
     ·
-    <a href="https://github.com/shivamkumard107/AtmanirbharCompiler/issues">Report Bug</a>
+    <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shivamkumard107/AtmanirbharCompiler/issues">Request Improvements</a>
+    <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/issues">Request Improvements</a>
   </p>
 </p>
 
@@ -85,7 +85,7 @@ Backend contains:
 The Atmanirbhar compiler is divided into three parts. In the frontend we build lexical and syntax analyzer giving output an intermediate form and backend contains code generator which outputs assembly code finally. :smile:
 #### EBNF Code
 Extended Backus–Naur form (EBNF) is a family of metasyntax notations, any of which can be used to express a context-free grammar. EBNF is used to make a formal description of a formal language such as a computer programming language. They are extensions of the basic Backus–Naur form (BNF) metasyntax notation. 
-[![EBNFcode][TextFile]](https://github.com/shivamkumard107/AtmanirbharCompiler/EBNFcode)
+[![EBNFcode][TextFile]](https://github.com/shivamkumard107/AtmanirbharCompilerProject/EBNFcode)
 
 ### Built With
 * [C language](https://en.cppreference.com/w/c/language)
@@ -147,9 +147,9 @@ c = 'a';
  }
 ```
 Output for above testcase:
-* [Lexical Output(token stream)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase1/lexout1.txt)
-* [Syntax Output(parse tree)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase1/synout1.txt)
-* [Code generator(Machine Code)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase1/codegenout1.txt)
+* [Lexical Output(token stream)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase1/lexout1.txt)
+* [Syntax Output(parse tree)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase1/synout1.txt)
+* [Code generator(Machine Code)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase1/codegenout1.txt)
 
 * Sample Testcase 2
 ```C
@@ -164,9 +164,9 @@ if(number<10){
 }
 ```
 Output for above testcase:
-* [Lexical Output(token stream)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase2/lexout2.txt)
-* [Syntax Output(parse tree)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase2/synout2.txt)
-* [Code generator(Machine Code)](https://github.com/shivamkumard107/AtmanirbharCompiler/testcases/testcase2/codegenout2.txt)
+* [Lexical Output(token stream)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase2/lexout2.txt)
+* [Syntax Output(parse tree)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase2/synout2.txt)
+* [Code generator(Machine Code)](https://github.com/shivamkumard107/AtmanirbharCompilerProject/testcases/testcase2/codegenout2.txt)
 
 
 
