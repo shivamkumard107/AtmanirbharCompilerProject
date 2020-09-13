@@ -218,7 +218,7 @@ Shivam Kumar - [@shivamkumard107](https://www.linkedin.com/in/shivam-kumar-a9aa9
 [issues-shield]: https://img.shields.io/github/issues/shivamkumard107/AtmanirbharCompilerProject.svg?style=flat-square
 [issues-url]: https://github.com/shivamkumard107/AtmanirbharCompilerProject/issues
 [license-shield]: https://img.shields.io/github/license/shivamkumard107/AtmanirbharCompilerProject.svg?style=flat-square
-[license-url]: https://github.com/shivamkumard107/AtmanirbharCompilerProject/blob/master/LICENSE.txt
+[license-url]: https://github.com/shivamkumard107/AtmanirbharCompilerProject/blob/master/LICENCE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shivam-kumar-a9aa96131/
 
