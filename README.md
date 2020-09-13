@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/res/compiler-design.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="res/compiler-design.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Atmanirbhar Compiler Project</h2>
@@ -83,14 +83,15 @@ Backend contains:
 * Code generator
 
 The Atmanirbhar compiler is divided into three parts. In the frontend we build lexical and syntax analyzer giving output an intermediate form and backend contains code generator which outputs assembly code finally. :smile:
-#### EBNF Code
+### EBNF Code
 Extended Backus–Naur form (EBNF) is a family of metasyntax notations, any of which can be used to express a context-free grammar. EBNF is used to make a formal description of a formal language such as a computer programming language. They are extensions of the basic Backus–Naur form (BNF) metasyntax notation. 
-[![EBNFcode][TextFile]](https://github.com/shivamkumard107/AtmanirbharCompilerProject/EBNFcode)
+[EBNFcode](https://github.com/shivamkumard107/AtmanirbharCompilerProject/EBNFcode)
 
 ### Built With
 * [C language](https://en.cppreference.com/w/c/language)
 * [EBNF](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)
 
+<img src="res/EBNFSample.png" alt="Logo" width="80" height="80">
 
 <!-- GETTING STARTED -->
 ## Getting Started
