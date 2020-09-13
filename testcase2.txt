@@ -1,9 +1,0 @@
-/*
-  Comments supported
- */
-number = 5;
-
-if(number<10){
-
-	print(number, "\n");
-}

@@ -1,6 +1,0 @@
-count = 5;
-c = 'a';
- while (count < 100) {
-     print("count is: ", count, "\n");
-     count = count + 5;
- }
