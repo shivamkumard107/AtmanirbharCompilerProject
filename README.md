@@ -33,7 +33,7 @@
   <p align="center">
     A basic compiler made using C language, using Extended Backus–Naur form(EBNF) for defining the grammar of the formal language. 
     <br />
-    <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/blob/master/README.txt"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shivamkumard107/AtmanirbharCompilerProject/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://youtu.be/xXIWzTw2Sys">View Demo(Youtube)</a>
@@ -199,9 +199,8 @@ Shivam Kumar - [@shivamkumard107](https://www.linkedin.com/in/shivam-kumar-a9aa9
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Rosettacode](https://rosettacode.org/wiki/Compiler)
-* [Shashank Kumar](https://daneden.github.io/animate.css)
-* [Shikhar Malik](https://connoratherton.com/loaders)
-* [Sumesh Pandit](https://pages.github.com)
+* [Shashank Kumar](https://github.com/sneakatyou)
+* [Shikhar Malik](https://github.com/shikharmaxx)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Jonathan Engelsma](https://youtu.be/54bo1qaHAfk)
 * [Wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)
